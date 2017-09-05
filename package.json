@@ -1,0 +1,28 @@
+{
+  "name": "strip_tags",
+  "version": "1.0.1",
+  "description": "removes markup from html string and returns plain text",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/kishoreprabhu/strip-tags"
+  },
+  "bugs" : { 
+    "url" : "https://github.com/kishoreprabhu/strip-tags/issues",
+    "email" : "kishoreprabhu97@gmail.com"
+  },
+  "keywords": [
+    "html",
+    "string",
+    "plain",
+    "text",
+    "mark",
+    "up",
+    "strip",
+    "tags"
+  ],
+  "author": "kishoreprabhu <kishoreprabhu97@gmail.com>",
+  "license": "ISC"
+}
